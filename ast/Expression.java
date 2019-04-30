@@ -1,5 +1,5 @@
 package ast;
 
 public abstract class Expression {
-	public abstract double evaluate(Program p);
+	public abstract String evaluate(Program p);
 }

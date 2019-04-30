@@ -11,8 +11,8 @@ public class Unary extends Expression {
 		this.op = op;
 		this.node = e;
 	}
-	public double evaluate(Program p) {
-		if (this.node == null) {
+	public String evaluate(Program p) {
+		/*if (this.node == null) {
 			return p.getMemory();
 		}
 		double val = this.node.evaluate(p);
@@ -20,7 +20,7 @@ public class Unary extends Expression {
 			case "+": return val;
 			case "-": return -val;
 			case "abs": return (val < 0) ? -val : val;
-		}
-		return 0.0;
+		}*/
+		return "0.0";
 	}
 }

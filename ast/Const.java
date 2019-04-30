@@ -1,11 +1,13 @@
 package ast;
 
 public class Const extends Expression {
-	private double value;
-	public Const(double value) {
-		this.value = value;
+	
+	private String sValue;
+	
+	public Const(String value) {
+		this.sValue = value;
 	}
-	public double evaluate(Program p) {
-		return this.value;
+	public String evaluate(Program p) {
+		return this.sValue;
 	}
 }

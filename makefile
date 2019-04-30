@@ -1,5 +1,5 @@
-GRAMMAR=excel
-INPUT=input.txt
+GRAMMAR=Excel
+INPUT=input.csv
 
 ifdef OS
     CPS := ;
