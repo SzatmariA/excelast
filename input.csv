@@ -1,2 +1,4 @@
-12;="Eredmeny=" + 35.5+6*2;=A1;
-"FUUUCK";
+12;=35.5+6*2;=A1+B1;
+"szoveg";"masik szoveg";=A2+B2+C1;
+"Eredmeny=";"masik szoveg";=A3+A4;
+=SUM(A1:C1);
