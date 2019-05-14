@@ -5,7 +5,7 @@ Click the link to read more.
 
 **Usage**
 
-Download the [ANTLR Toolset](https://www.antlr.org/download/antlr-4.7.2-complete.jar) first.
+First download the [ANTLR Toolset](https://www.antlr.org/download/antlr-4.7.2-complete.jar).
 
 Change the input.csv the way you'd use an excel table. 
 SUM: you can summorize numbers and expressions in your csv with this function.
