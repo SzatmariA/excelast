@@ -7,8 +7,9 @@ Click the link to read more.
 
 First download the [ANTLR Toolset](https://www.antlr.org/download/antlr-4.7.2-complete.jar).
 
-Change the input.csv the way you'd use an excel table. 
+Change the input.csv the way you'd use an excel table. You need to type *=* before expressions and functions.
  * SUM: you can summorize numbers and expressions in your csv with this function.
+ * A1: you can target any existing cell you want.
 
 Just write =SUM(A1:C1) as you see in the input.csv
 
