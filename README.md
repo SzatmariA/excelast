@@ -1,4 +1,4 @@
-# Generate excellike csv into html table
+# Generate excel-like csv into html table
 This project uses  [ANTLR's java](https://github.com/antlr/antlr4/blob/master/doc/java-target.md) version
 Click the link to read more.
 
